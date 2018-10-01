@@ -14,7 +14,17 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    @IBAction func goToMainPage(_ sender: Any) {
+        let userDefaults = UserDefaults.standard
+        
+        userDefaults.set(true, forKey: "FirstTimeComplete")
+        
+        userDefaults.synchronize()
+        
+        
+        
+    }
+    
 
 }
 
