@@ -10,7 +10,7 @@
   لطريقة التعديل واضافته لتطبيقك الرجاء مشاهدة الفيديو من الرابط التالي
 </h4>
 <a href="https://www.youtube.com/watch?feature=youtu.be&v=w-pYEGYCKCM">
-<img alt="SwiftGen Logo" src="https://i.ytimg.com/vi/VRLw_wNArV8/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlqc4ghXnR2MnjI-2xb_juP50juw" />
+<img alt="FirstTimeOnly" src="https://i.ytimg.com/vi/w-pYEGYCKCM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATU66zHXupEWpZigXWoJPCkjoYsg" />
 </a>
 
 
